@@ -1,0 +1,9 @@
+name = "newdemo"
+
+[tajriba.auth]
+srtoken = "PxzdCBUmNtylcLCV"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "KEGPqigI"
