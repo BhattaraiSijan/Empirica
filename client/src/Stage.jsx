@@ -6,9 +6,9 @@ import {
 } from "@empirica/core/player/classic/react";
 import { Loading } from "@empirica/core/player/react";
 import React from "react";
-import { Stage1 } from "./stages/Stage1";
-import { Stage2 } from "./stages/Stage2";
-import { Result } from "./stages/Result";
+import { Stage1 } from "./Stages/Stage1";
+import { Stage2 } from "./Stages/Stage2";
+import { Result } from "./Stages/Result";
 
 export function Stage() {
   const player = usePlayer();
